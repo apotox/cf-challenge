@@ -26,6 +26,10 @@
       "react-app/jest"
     ]
   },
+  "author": {
+    "name": "safi eddine bouhentala",
+    "email": "saphidev@gmail.com"
+  },
   "browserslist": {
     "production": [
       ">0.2%",
